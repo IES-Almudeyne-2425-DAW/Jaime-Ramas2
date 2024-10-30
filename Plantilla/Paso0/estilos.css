@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: #f0f0f0;
     /* Modifica este color por otro */
     text-align: center;
     margin: 0;
@@ -15,7 +15,7 @@ footer {
 }
 
 article {
-    background-color: blue;
+    background-color: #ffffff;
     /* Modifica este color por otro */
     padding: 20px;
     border-radius: 8px;
@@ -26,7 +26,7 @@ article {
 }
 
 p {
-    color: orange;
+    color: red;
     /* Modifica este color por otro */
 }
 
